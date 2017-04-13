@@ -1,0 +1,5 @@
+export constant LOG_IN_SUCCESS = 'LOG_IN_SUCCESS'
+export constant LOG_IN_FAILURE = 'LOG_IN_FAILURE'
+export constant LOG_IN_SUCCESS = 'REGISTRATION_SUCCESS'
+export constant LOG_IN_SUCCESS = 'REGISTRATION_FAILURE'
+export constant LOG_IN_SUCCESS = 'STORE_TOKEN'
