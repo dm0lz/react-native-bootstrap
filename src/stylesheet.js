@@ -48,6 +48,9 @@ const styles = StyleSheet.create({
   image: {
     flex: 1,
     //maxHeight: 100
+  },
+  pdf: {
+    flex:1
   }
 });
 export default styles;

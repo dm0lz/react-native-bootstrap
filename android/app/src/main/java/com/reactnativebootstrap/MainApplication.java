@@ -3,6 +3,8 @@ package com.reactnativebootstrap;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.keyee.pdfview.PDFView;
+import com.christopherdro.htmltopdf.RNHTMLtoPDFPackage;
 import com.reactnative.ivpusic.imagepicker.PickerPackage;
 import com.lwansbrough.RCTCamera.RCTCameraPackage;
 import com.facebook.react.ReactNativeHost;
@@ -25,6 +27,8 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
+            new PDFView(),
+            new RNHTMLtoPDFPackage(),
             new PickerPackage(),
             new RCTCameraPackage()
       );

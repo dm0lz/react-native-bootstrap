@@ -37,6 +37,8 @@
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		245460C55481496C932725BB /* libRCTCamera.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DE6254AF46942A9859C266B /* libRCTCamera.a */; };
 		4227D537F8424C17988DD179 /* libimageCropPicker.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CEDBECCED2EF4A72B53687D7 /* libimageCropPicker.a */; };
+		66E24F1F7C6940CA939ADFB3 /* libRNHTMLtoPDF.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E217451F52E4113B4CA4A95 /* libRNHTMLtoPDF.a */; };
+		7853FD284F1C432290A98D26 /* libRNPDFView.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CD92200ECFC641A6B3535522 /* libRNPDFView.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -260,6 +262,10 @@
 		1DE6254AF46942A9859C266B /* libRCTCamera.a */ = {isa = PBXFileReference; name = "libRCTCamera.a"; path = "libRCTCamera.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
 		8D7AFE6A76BF4388AD40EEDA /* imageCropPicker.xcodeproj */ = {isa = PBXFileReference; name = "imageCropPicker.xcodeproj"; path = "../node_modules/react-native-image-crop-picker/ios/imageCropPicker.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
 		CEDBECCED2EF4A72B53687D7 /* libimageCropPicker.a */ = {isa = PBXFileReference; name = "libimageCropPicker.a"; path = "libimageCropPicker.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
+		C87E1CED25E040A68196F4A1 /* RNHTMLtoPDF.xcodeproj */ = {isa = PBXFileReference; name = "RNHTMLtoPDF.xcodeproj"; path = "../node_modules/react-native-html-to-pdf/ios/RNHTMLtoPDF.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
+		8E217451F52E4113B4CA4A95 /* libRNHTMLtoPDF.a */ = {isa = PBXFileReference; name = "libRNHTMLtoPDF.a"; path = "libRNHTMLtoPDF.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
+		E4DE85F41E794329A2DA74A1 /* RNPDFView.xcodeproj */ = {isa = PBXFileReference; name = "RNPDFView.xcodeproj"; path = "../node_modules/react-native-pdf-view/RNPDFView.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
+		CD92200ECFC641A6B3535522 /* libRNPDFView.a */ = {isa = PBXFileReference; name = "libRNPDFView.a"; path = "libRNPDFView.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -288,6 +294,8 @@
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
 				245460C55481496C932725BB /* libRCTCamera.a in Frameworks */,
 				4227D537F8424C17988DD179 /* libimageCropPicker.a in Frameworks */,
+				66E24F1F7C6940CA939ADFB3 /* libRNHTMLtoPDF.a in Frameworks */,
+				7853FD284F1C432290A98D26 /* libRNPDFView.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -456,6 +464,8 @@
 				139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */,
 				D0460874F33C424DBDD9A7E2 /* RCTCamera.xcodeproj */,
 				8D7AFE6A76BF4388AD40EEDA /* imageCropPicker.xcodeproj */,
+				C87E1CED25E040A68196F4A1 /* RNHTMLtoPDF.xcodeproj */,
+				E4DE85F41E794329A2DA74A1 /* RNPDFView.xcodeproj */,
 			);
 			name = Libraries;
 			sourceTree = "<group>";
@@ -985,11 +995,15 @@
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-camera/ios",
 					"$(SRCROOT)/../node_modules/react-native-image-crop-picker/ios/**",
+					"$(SRCROOT)/../node_modules/react-native-html-to-pdf/ios/RNHTMLtoPDF/**",
+					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
 			};
 			name = Debug;
@@ -1012,11 +1026,15 @@
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-camera/ios",
 					"$(SRCROOT)/../node_modules/react-native-image-crop-picker/ios/**",
+					"$(SRCROOT)/../node_modules/react-native-html-to-pdf/ios/RNHTMLtoPDF/**",
+					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
 			};
 			name = Release;
@@ -1040,6 +1058,8 @@
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-camera/ios",
 					"$(SRCROOT)/../node_modules/react-native-image-crop-picker/ios/**",
+					"$(SRCROOT)/../node_modules/react-native-html-to-pdf/ios/RNHTMLtoPDF/**",
+					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
 			};
 			name = Debug;
@@ -1062,6 +1082,8 @@
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-camera/ios",
 					"$(SRCROOT)/../node_modules/react-native-image-crop-picker/ios/**",
+					"$(SRCROOT)/../node_modules/react-native-html-to-pdf/ios/RNHTMLtoPDF/**",
+					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
 			};
 			name = Release;
@@ -1093,11 +1115,15 @@
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-camera/ios",
 					"$(SRCROOT)/../node_modules/react-native-image-crop-picker/ios/**",
+					"$(SRCROOT)/../node_modules/react-native-html-to-pdf/ios/RNHTMLtoPDF/**",
+					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
 			};
 			name = Debug;
@@ -1129,11 +1155,15 @@
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-camera/ios",
 					"$(SRCROOT)/../node_modules/react-native-image-crop-picker/ios/**",
+					"$(SRCROOT)/../node_modules/react-native-html-to-pdf/ios/RNHTMLtoPDF/**",
+					"$(SRCROOT)/../node_modules/react-native-pdf-view/RNPDFView",
 				);
 			};
 			name = Release;
@@ -1160,6 +1190,8 @@
 					"$(inherited)",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 			};
 			name = Debug;
@@ -1184,6 +1216,8 @@
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);

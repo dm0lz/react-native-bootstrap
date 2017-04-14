@@ -36,16 +36,16 @@
         "source": "/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/res/anim/fade_out.xml"
     },
     {
+        "merged": "/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_enter.xml"
+    },
+    {
         "merged": "/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
         "source": "/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",

@@ -1,6 +1,7 @@
 export default {
   picture: '',
   cropped_picture: '',
+  pdf: '',
   session: false,
   jwt: '',
   options: {

@@ -40,6 +40,9 @@ MERGED from [reactnativebootstrap:react-native-image-crop-picker:unspecified] /U
 		ADDED from /Users/olivier/Desktop/react-native-bootstrap/android/app/src/main/AndroidManifest.xml:10:20-76
 uses-sdk
 ADDED from /Users/olivier/Desktop/react-native-bootstrap/android/app/src/main/AndroidManifest.xml:12:5-14:41
+MERGED from [reactnativebootstrap:react-native-pdf-view:unspecified] /Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/reactnativebootstrap/react-native-pdf-view/unspecified/AndroidManifest.xml:23:5-25:41
+MERGED from [com.joanzapata.pdfview:android-pdfview:1.0.4] /Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.joanzapata.pdfview/android-pdfview/1.0.4/AndroidManifest.xml:23:2-69
+MERGED from [reactnativebootstrap:react-native-html-to-pdf:unspecified] /Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/reactnativebootstrap/react-native-html-to-pdf/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [reactnativebootstrap:react-native-image-crop-picker:unspecified] /Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/reactnativebootstrap/react-native-image-crop-picker/unspecified/AndroidManifest.xml:6:5-8:41
 MERGED from [com.yalantis:ucrop:2.2.0-native] /Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/AndroidManifest.xml:8:5-10:41
 MERGED from [id.zelory:compressor:1.0.4] /Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/id.zelory/compressor/1.0.4/AndroidManifest.xml:8:5-10:41

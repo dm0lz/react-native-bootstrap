@@ -13,6 +13,7 @@ import Main from './src/components/main'
 import Cam from './src/components/cam'
 import Picture from './src/components/picture'
 import CroppedPicture from './src/components/cropped_picture'
+import Pdf from './src/components/pdf'
 import allReducers from './src/reducers'
 
 const RouterWithRedux = connect()(Router)
@@ -30,6 +31,7 @@ const scenes = Actions.create(
     <Scene key="camera" component={Cam} title="Camera" />
     <Scene key="picture" component={Picture} title="Picture" />
     <Scene key="croppedPicture" component={CroppedPicture} title="Cropped Picture" />
+    <Scene key="pdf" component={Pdf} title="pdf" />
   </Scene>
 );
 

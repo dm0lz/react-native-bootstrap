@@ -5,7 +5,8 @@ import { bindActionCreators } from 'redux'
 import styles from '../stylesheet'
 import { Actions } from 'react-native-router-flux'
 import ImagePicker from 'react-native-image-crop-picker'
-import * as cameraActions from '../actions/camera'
+import * as pdfActions from '../actions/pdf'
+import RNHTMLtoPDF from 'react-native-html-to-pdf'
 
 class CroppedPicture extends Component {
 
@@ -16,7 +17,14 @@ class CroppedPicture extends Component {
 
   generatePdf(picture){
     console.log("generating pdf from " + picture)
-    
+    let html_str = "<section><h2>Cropped image embedded in pdf : </h2><div><img src='" + this.props.camera.cropped_picture + "'/></div></section>"
+    console.log(html_str)
+    var options = {
+      html: html_str
+    }
+    RNHTMLtoPDF.convert(options).then((data) => {
+      this.props.actions.generatedPdf(data.filePath)
+    })
   }
 
   render(){
@@ -35,7 +43,7 @@ class CroppedPicture extends Component {
 
 function mapDispatchToProps(dispatch) {
   return {
-    actions: bindActionCreators(cameraActions, dispatch)
+    actions: bindActionCreators(pdfActions, dispatch)
   }
 }
 export default connect(({routes, camera}) => ({routes, camera}), mapDispatchToProps)(CroppedPicture)
