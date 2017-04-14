@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_abe443a5e10d3564dabef7d1c62d98bf1a701c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_491d66de9a6c3d29972057cd137bfa26a1e017ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/rxjava-1.1.6_d5707414793c50770dcd97f5635eea9340aaea98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_71d944f47367f812e69891a1ae7567b2ff94646f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_a0ce78d6cb94e9178d762c088e34d4f2e42669a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.42.3_02ab0354aed0c73187de3c7a0f2c6f9ccd68f469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_017ce69c963da506094c766ebccf3ec0b5d3b018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/reactnativebootstrap/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cdc6aff7136e8d205e0672451fd456ef67dbeeee">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/reactnativebootstrap-react-native-camera-unspecified_bb79ff433286f2fc510d38637e377b52ab3e13e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_062efd9b8bc5420eb7a32d2b94d3c2c55a14eb6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_9d4e9cbc225066660d8fb423f6306e24476aa7d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/reactnativebootstrap/react-native-image-crop-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a3d8b3818bbac34545175fd18a2ed8f4a9f5519">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/reactnativebootstrap-react-native-image-crop-picker-unspecified_a1c1df306b8813e443e04a74c6c15dec87db6876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_ec3c774c6baa06f63968004081b7208b6439083b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_51dc25e9730f7a0ff2d31c0dd6e2e4de2fbbda3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_68f7b79a408a2c1bcbed10ffa1147d3e52d2410c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_89bb0479f1105b2fac408683552b095314adc582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_514f7c838c086b2a21bf6aadf647fb7b855d0cf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_a8e4e9399c8a8ddefa53665efd4881cc976da03e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_2fb57eb0b1bc78367ccde50ac5e9791055417654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_483fe40f5593793d0d5aa41572fa77081646c417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_3c8d8c1fa01e7c1fb0b4833f9f7b7872a7358502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Development/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_0a956e7a6d05cf7bc0febb792818884e845bd090.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_9ff0e61e775ded5b4aa0f5609bb79429bc94c1af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_fce1e5d23f7b8c4b331d6373081fa8359b51b824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/id.zelory/compressor/1.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3a724d5d031884220bae4a255f6d2763cd0ebdc4">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/id.zelory-compressor-1.0.4_4314ac92625b3f3f55ef8e481803731b2d7bbfca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_d170c2b9aaa4915f9cffab2684bced515ae7e45b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_a4714839e8fdb455b8bd3d5570d88937c242b65e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ec8300e0ba559c98f2db22f87d7a8a9142fc82e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_e63878f133be8a5f7dfa9435904fa09b7421b460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_82536d2222c1044a336e65c5ae0ca4adac921977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_e664e528ef2afcc6683938bda8f2d5ef4ab46480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_389344f81bc8776fd8c30a93bbbde27fe46c4cb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_6fde95a34f0f4cdbb1633f34430a8e302dcdcbc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_a9b7fe15ddb620405dbce37c96b63bbcdd9f5276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_19fa0fa71544eb75b2c2562be1149e3ec544f848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_77ad0741680b9a365f0cd04f4b53e192d9fd1949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_63e6c13af944e8b19f84ee44311a3e894c51f5b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_21f1c078e43a728114790ecbb367fb066c425b77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_4707e229715eb4a4c79594b2ff5af503c0fb3b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.yalantis/ucrop/2.2.0-native/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24497dd7ccdf848dde14335011e715dcc1110275">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.yalantis-ucrop-2.2.0-native_f9e2523084fd5802fc48bfe72b48f6ae45fda9fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_fd44c2b3df53ae596c1fb58a630f20e9051134aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_9bcb34846845fbd29b2a96724b92a0d02bcb8b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_37218a7a06da65243dd85a023db3799a2d0a264d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/olivier/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/olivier/Desktop/react-native-bootstrap/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_e6c171890c842725a4b9baeda1e31acbd459f4bf.jar" />
+    </item>
+
+</items>

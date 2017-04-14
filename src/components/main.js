@@ -27,8 +27,8 @@ class Main extends Component {
       <View style={styles.container}>
         <Text>Pictures page</Text>
         <Text>Store : {this.props.routes.scene.title}</Text>
-        <TouchableHighlight style={styles.button} onPress={ () => Actions.home() } underlayColor='#99d9f4'>
-          <Text style={styles.buttonText}>Go to Home</Text>
+        <TouchableHighlight style={styles.button} onPress={ () => Actions.camera() } underlayColor='#99d9f4'>
+          <Text style={styles.buttonText}>Go to Camera</Text>
         </TouchableHighlight>
       </View>
     )

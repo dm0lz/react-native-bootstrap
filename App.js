@@ -10,6 +10,9 @@ import Login from './src/components/login'
 import Register from './src/components/register'
 import Home from './src/components/home'
 import Main from './src/components/main'
+import Cam from './src/components/cam'
+import Picture from './src/components/picture'
+import CroppedPicture from './src/components/cropped_picture'
 import allReducers from './src/reducers'
 
 const RouterWithRedux = connect()(Router)
@@ -24,6 +27,9 @@ const scenes = Actions.create(
     <Scene key="register" component={Register} direction="vertical" title="Register" />
     <Scene key="home" component={Home} title="Home" initial={true}  />
     <Scene key="main" component={Main} title="Main" />
+    <Scene key="camera" component={Cam} title="Camera" />
+    <Scene key="picture" component={Picture} title="Picture" />
+    <Scene key="croppedPicture" component={CroppedPicture} title="Cropped Picture" />
   </Scene>
 );
 
